@@ -1,0 +1,26 @@
+nav,
+body {
+    border: 1px solid black;
+}
+
+.HG {
+    padding: 5px;
+    background: #fffbb9;
+    border: 1px solid black;
+}
+
+.G1 {
+    font-family: sans-serif;
+}
+
+.G2 {
+    width: 350px;
+}
+
+.G3 {
+    width: 500px;
+}
+
+#ID2 {
+    color: white;
+}
